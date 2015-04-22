@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='C:/Users/z/.vim/bundle/TabBar'
+let g:netrw_dirhist_2='C:/Users/z/.vim/bundle'
+let g:netrw_dirhist_3='C:/Users/z/.vim'
+let g:netrw_dirhist_4='C:/Users/z'
+let g:netrw_dirhist_5='C:/Users'
+let g:netrw_dirhist_6='C:'
+let g:netrw_dirhist_7='C:/Users'
+let g:netrw_dirhist_8='C:/Users/recluse'
+let g:netrw_dirhist_9='C:/Users/recluse/AppData'
